@@ -128,7 +128,7 @@
 .cm-s-default .cm-variable-2 {color:black/*#05a*/;}
 .cm-s-default .cm-variable-3 {color: #085;}
 .cm-s-default .cm-comment {color: green/*#a50*/;}
-.cm-s-default .cm-string {color: mediumblue/*#a11*/;}
+.cm-s-default .cm-string {color: #ff0000/*#a11*/;}
 .cm-s-default .cm-string-2 {color: #f50;}
 .cm-s-default .cm-meta {color: #c10000;}
 .cm-s-default .cm-qualifier {color: brown/*#555*/;}
@@ -158,7 +158,7 @@ body.darktheme .cm-s-default .cm-operator {}
 body.darktheme .cm-s-default .cm-variable-2 {color:white;}
 body.darktheme .cm-s-default .cm-variable-3 {color: #085;}/**/
 body.darktheme .cm-s-default .cm-comment {color: #999;}
-body.darktheme .cm-s-default .cm-string {color: #88c999/*green*/;}
+body.darktheme .cm-s-default .cm-string {color: #ff0000/*green*/;}
 body.darktheme .cm-s-default .cm-m-javascript.cm-string {color: #88c999/*green*/;}
 body.darktheme .cm-s-default .cm-m-sql.cm-string {color: #ff9999/*red*/;}
 body.darktheme .cm-s-default .cm-string-2 {color: #f50;}
