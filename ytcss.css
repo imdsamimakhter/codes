@@ -1,0 +1,4 @@
+.yt-core-image--content-mode-scale-aspect-fill {
+    object-fit: cover; 
+    filter: blur(15px);
+}
