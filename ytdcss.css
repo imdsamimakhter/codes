@@ -1,0 +1,4 @@
+.yt-core-image--fill-parent-width {
+    width: 100%;
+    filter: blur(15px);
+}
