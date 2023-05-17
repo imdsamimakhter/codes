@@ -6,6 +6,15 @@
     width: 100%;
     filter: blur(0px);
 }
+.yt-core-image--fill-parent-height {
+    width: 100%;
+    filter: blur(15px);
+}
+
+.yt-core-image--fill-parent-height:hover {
+    width: 100%;
+    filter: blur(0px);
+}
 .ytp-cued-thumbnail-overlay-image {
     background-size: cover;
     -moz-background-size: cover;
