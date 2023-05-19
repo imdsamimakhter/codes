@@ -24,8 +24,20 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    filter: blur(14px);
+    filter: blur(15px);
 }
 .ytp-cued-thumbnail-overlay-image:hover {
     filter: blur(0px);
+}
+.yt-core-image {
+ filter: blur(15px);
+}
+.yt-core-image:hover {
+ filter: blur(0px);
+}
+.yt-core-image--loaded {
+ filter: blur(15px);
+}
+.yt-core-image--loaded:hover {
+ filter: blur(0px);
 }
