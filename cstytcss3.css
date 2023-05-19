@@ -1,15 +1,8 @@
-.yt-core-image--fill-parent-width {
-    width: 100%;
-    filter: blur(15px);
-}
 .yt-core-image--fill-parent-width:hover {
     width: 100%;
     filter: blur(0px);
 }
-.yt-core-image--fill-parent-height {
-    width: 100%;
-    filter: blur(15px);
-}
+
 
 .yt-core-image--fill-parent-height:hover {
     width: 100%;
@@ -29,15 +22,14 @@
 .ytp-cued-thumbnail-overlay-image:hover {
     filter: blur(0px);
 }
-.yt-core-image {
- filter: blur(15px);
-}
+
 .yt-core-image:hover {
  filter: blur(0px);
 }
-.yt-core-image--loaded {
- filter: blur(15px);
-}
+.
 .yt-core-image--loaded:hover {
  filter: blur(0px);
+}
+ytd-thumbnail:hover {
+    filter:blur(0px);
 }
