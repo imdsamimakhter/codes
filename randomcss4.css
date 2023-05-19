@@ -8,3 +8,11 @@ img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-i
 img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.wiz-to-process.yt-core-image--loaded skfPatternBgImgLight:hover {
  filter: blur(0px);
 }
+.yt-core-image--content-mode-scale-aspect-fit {
+    object-fit: contain;
+    filter: blur(8px);
+}
+.yt-core-image--content-mode-scale-aspect-fit:hover {
+    object-fit: contain;
+    filter: blur(0px);
+}
