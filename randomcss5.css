@@ -16,3 +16,25 @@ img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-i
     object-fit: contain;
     filter: blur(0px);
 }
+.ytp-cued-thumbnail-overlay-image {
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    filter: blur(10px);
+}
+.ytp-cued-thumbnail-overlay-image:hover {
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    filter: blur(0px);
+}
