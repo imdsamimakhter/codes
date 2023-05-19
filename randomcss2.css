@@ -4,9 +4,7 @@ img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-i
 img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.wiz-to-process.yt-core-image--loaded:hover {
  filter: blur(0px);
 }
-img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.wiz-to-process.yt-core-image--loaded skfPatternBgImgLight {
- filter: blur(15px);
-}
+
 img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.wiz-to-process.yt-core-image--loaded skfPatternBgImgLight:hover {
  filter: blur(0px);
 }
