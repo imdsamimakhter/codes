@@ -634,8 +634,7 @@ textarea.form-control{
 }
 .btn-danger{
     color:#fff;
-    background-color:#dc3545;
-    border-color:#dc3545
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(98,12,184,1) 20%, rgba(2,0,36,1) 65%);
 }
 .btn-danger:hover{
     color:#fff;
@@ -1014,13 +1013,14 @@ a.bg-success:focus,a.bg-success:hover,button.bg-success:focus,button.bg-success:
     background-color:#1e7e34!important
 }
 .bg-info{
-    background-color:#17a2b8!important
+    background-color:#ffffff!important
 }
 a.bg-info:focus,a.bg-info:hover,button.bg-info:focus,button.bg-info:hover{
     background-color:#117a8b!important
 }
 .bg-danger{
-    background-color:#dc3545!important
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(98,12,184,1) 57%, rgba(0,212,255,1) 100%);
 }
 a.bg-danger:focus,a.bg-danger:hover,button.bg-danger:focus,button.bg-danger:hover{
     background-color:#bd2130!important
@@ -1071,7 +1071,7 @@ a.bg-light:focus,a.bg-light:hover,button.bg-light:focus,button.bg-light:hover{
     border-color:#17a2b8!important
 }
 .border-danger{
-    border-color:#dc3545!important
+    border-color:#000000!important
 }
 .border-light{
     border-color:#f8f9fa!important
