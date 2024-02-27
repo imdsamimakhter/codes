@@ -89,6 +89,9 @@ img{
     vertical-align:middle;
     border-style:none
 }
+img[alt="www.000webhost.com"] {
+    visibility: hidden;
+}
 label{
     display:inline-block;
     margin-bottom:.5rem
