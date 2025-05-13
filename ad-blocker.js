@@ -2,6 +2,6 @@ window.addEventListener("load",()=>{new Promise(e=>{let t=document.createElement
             <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; text-align: center; max-width: 500px; border-radius: 10px; margin: 20px; min-height: 250px; font-size: 1.2em; font-family: system-ui; border: 5px solid #b3b3b3; background: #ffffff; color: black;">
                 <h2 style="margin: 0px 0px 15px; font-weight: 700;">AdBlocker Detected!</h2>
                 <p>We rely on ads to keep our website free. Please disable your ad blocker or whitelist our site.</p>
-                <button id="refresh-page" style="padding: 10px 20px; font-size: 16px; cursor: pointer; background: #1a73e8; color: white; border-radius: 10px; margin: 15px 0px 0px;">I Disabled AdBlock</button>
+                <button id="refresh-page" style="padding: 10px 20px; font-size: 16px; cursor: pointer; background: #4361ee; color: white; border: none; border-radius: 25px; margin: 15px 0px 0px;">Disabled AdBlocker?</button>
             </div>
         `,document.body.appendChild(t),document.getElementById("refresh-page").addEventListener("click",function(){location.reload()})}})});
